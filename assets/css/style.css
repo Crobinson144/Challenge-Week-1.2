@@ -48,17 +48,17 @@ a {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("https://i.pinimg.com/originals/17/c6/2c/17c62cea242c664ecd9595513e45e8ae.jpg");
+    background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
-/* main */
+/* main content */
 article {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-main {
+article section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -124,4 +124,3 @@ footer {
 footer h2 {
     font-size: 20px;
 }
-©2022 GitHub, Inc.
